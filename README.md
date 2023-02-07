@@ -1,3 +1,4 @@
+  <img src="https://github.com/linta03/linta03/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png" alt="">
 <h1 align="center">Hi 👋, I'm Linta Rabil</h1>
 <h3 align="center">A passionate and Skilled frontend developer from Pakistan✨</h3>
 
